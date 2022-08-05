@@ -1,1 +1,1 @@
-# selenide-allure-bdd-sample
+# rest assured using bdd sample
